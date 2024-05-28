@@ -40,11 +40,7 @@ export default {
   footer: {
     text: (
       <span>
-        {new Date().getFullYear()} ©{" "}
-        <a href="https://nextra.site" target="_blank">
-          SUIGa
-        </a>
-        .
+        {new Date().getFullYear()} © <a>SUIGa</a>.
       </span>
     ),
   },
